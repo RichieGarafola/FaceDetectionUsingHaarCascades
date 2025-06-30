@@ -22,7 +22,7 @@ This project demonstrates how to perform **face detection** using OpenCV’s **H
 
 ```bash
 .
-├── Assessment4_FaceDetection.ipynb       # Main notebook
+├── FaceDetection.ipynb                   # Main notebook
 ├── haarcascades/                         # Folder with Haar XML files
 ├── dataset/                              # Your input images
 ├── output/
